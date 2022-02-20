@@ -1,0 +1,1 @@
+This project is based on the idea of book sharing between the readers. this is just a rough presentation of the idea about how the platform will work.
